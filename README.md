@@ -1,4 +1,4 @@
-Hello, I am a VeM-code programmer and engineer.
+Hello, I am a VeM-code (VMarch) programmer and engineer.
 
 <!---
 VeM-code/VeM-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
